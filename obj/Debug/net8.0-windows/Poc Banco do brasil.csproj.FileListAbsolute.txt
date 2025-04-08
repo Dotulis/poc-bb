@@ -1,0 +1,16 @@
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\bin\Debug\net8.0-windows\Poc Banco do brasil.exe
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\bin\Debug\net8.0-windows\Poc Banco do brasil.deps.json
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\bin\Debug\net8.0-windows\Poc Banco do brasil.runtimeconfig.json
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\bin\Debug\net8.0-windows\Poc Banco do brasil.dll
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\bin\Debug\net8.0-windows\Poc Banco do brasil.pdb
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc_Banco_do_brasil.Form1.resources
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.csproj.GenerateResource.cache
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.AssemblyInfoInputs.cache
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.AssemblyInfo.cs
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.csproj.CoreCompileInputs.cache
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.dll
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\refint\Poc Banco do brasil.dll
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.pdb
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\Poc Banco do brasil.genruntimeconfig.cache
+C:\Users\dev6\source\repos\Poc Banco do brasil\Poc Banco do brasil\obj\Debug\net8.0-windows\ref\Poc Banco do brasil.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Poc Banco do brasil/1.0.0": {
+        "runtime": {
+          "Poc Banco do brasil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poc Banco do brasil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
